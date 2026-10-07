@@ -30,3 +30,30 @@ print("uppercase all letters:",text.upper())
 
 #12 lowercase all letters in the string
 print("lowercase all letters:",text.lower())
+
+#concat 3 strings
+string1 = "Ha"
+string2 = "ha"
+string3 = "HA"
+print("concat 3 strings:", string1 + string2 + string3)
+
+#find occurence of a letter in a string
+string = input("enter your name:")
+print("occurence of a in your name is:", string.count("a"))
+
+#replace a letter from a string with another letter
+string = input("enter your name:")
+print("after replacement:", string.replace("a","Z"))
+
+#split  a string
+string = "ayush"
+name = [string[:3],string[3:5]]
+print("name")
+
+
+#sort the string 
+string = "ayush"
+sorted_string = sorted.(string)
+print("sorted_string")
+
+
