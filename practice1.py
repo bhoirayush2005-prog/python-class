@@ -7,4 +7,4 @@ print(sum(even_numbers))
 #reverse the accepted string 
 #accept sentence from the user and count the vowels
 #remove duplicates from list
-#reverse the list 
+#reverse the list
