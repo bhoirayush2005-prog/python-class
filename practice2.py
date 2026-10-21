@@ -7,8 +7,8 @@
 
 
 # # in heterogeneous list of number and names split the list form max number
-heterogeneous_list = [1,"ayush",2,3,4,5,"hello",6,7,8,9,10]
-print("1,"ayush",2,3,4,5,"hello",6,7,8,9"),("10")
+# heterogeneous_list = [1,"ayush",2,3,4,5,"hello",6,7,8,9,10]
+# print("1,"ayush",2,3,4,5,"hello",6,7,8,9"),("10")
 
 
 
